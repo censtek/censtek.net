@@ -2,3 +2,7 @@ baseURL = 'https://censtek.net'
 languageCode = 'en-us'
 title = 'censtek'
 theme = 'lugo'
+[markup]
+  [markup.goldmark]
+   [markup.goldmark.renderer]
+    unsafe = true
