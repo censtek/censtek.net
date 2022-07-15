@@ -5,9 +5,28 @@
 	<description>Recent content in Tags on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
+	<lastBuildDate>Fri, 15 Jul 2022 17:10:34 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>blogs</title>
+		<link>https://censtek.net/tags/blogs/</link>
+		<pubDate>Fri, 15 Jul 2022 17:10:34 -0400</pubDate>
+		
+		<guid>https://censtek.net/tags/blogs/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>Info</title>
+		<link>https://censtek.net/tags/info/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://censtek.net/tags/info/</guid>
+		<description></description>
+	</item>
 	
 	</channel>
 </rss>

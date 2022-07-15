@@ -1,5 +1,6 @@
 ---
 title: "Software I use"
+tags: ['info']
 draft: false
 ---
 

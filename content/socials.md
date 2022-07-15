@@ -1,5 +1,6 @@
 ---
 title: "Socials"
+tags: ['Info']
 draft: false
 ---
 
