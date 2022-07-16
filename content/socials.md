@@ -9,3 +9,4 @@ draft: false
  - ## [Twitter](https://twitter.com/censtek)
  - ## [Odysee](https://odysee.com/@censtek:f)
  - ## [GitHub](https://github.com/censtek)
+ - ## [Gab](https://gab.com/censtek)
