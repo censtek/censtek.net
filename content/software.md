@@ -22,13 +22,13 @@ I use [Bitwarden](https://bitwarden.com) for my password manager and I paid the 
 For my VPN, I use [Windscribe](https://windscribe.com) and I have the Pro version for a year. I mainly just use Windscribe so I can torrent safely. VPNs aren't some magical tool that will make you 100% private just bc you are using a VPN and if you still believe that, check out this video about what VPNs are good for and what they are not good for (VPN advertising is very misleading)
 
 <center>
-<iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/the-real-deal-with-vpns-don-t-trust-vpn/fc724244bd2ae765b2a43aec2e1312e2d36489b2?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu" allowfullscreen></iframe>
+<iframe id="odysee-iframe" width="80%" height="315" src="https://odysee.com/$/embed/the-real-deal-with-vpns-don-t-trust-vpn/fc724244bd2ae765b2a43aec2e1312e2d36489b2?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu" allowfullscreen></iframe>
 </center>
 
 One thing to note about Windscribe however was there was an incident in 2021 where Ukrainian police seized their servers and were able to decrypt the data from that server due to there being out of date software on that server with a vulnerability that allowed for the data to be decrypted. This segment from [this video](https://odysee.com/@techlore:3/windscribe-vpn-servers-seized-!:b?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu) explains it pretty well.
 
 <center>
-<iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/survreportwindscribesegment/ce9701a59859f8af887239bd125f935363c57b79?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu" allowfullscreen></iframe>
+<iframe id="odysee-iframe" width="80%" height="315" src="https://odysee.com/$/embed/survreportwindscribesegment/ce9701a59859f8af887239bd125f935363c57b79?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu" allowfullscreen></iframe>
 </center>
 
 For downloading stuff, I use [qBittorrent](https://www.qbittorrent.org/) for torrenting and [Free Download Manager](https://www.freedownloadmanager.org/) for (usually) downloading large files from websites.
