@@ -5,7 +5,7 @@
 <h5>{{ .Summary }}</h5>
 {{ if .Truncated }}
 <a href="{{ .RelPermalink }}">Read more...</a><p></p>
-{{ .ReadingTime }} minute read
+{{ .ReadingTime }} minute read<p></p>
 {{ end }}
 Tagged with:
 {{ with .Params.tags }}{{ delimit . ", "}}{{ end }}
