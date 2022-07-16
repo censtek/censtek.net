@@ -1,0 +1,11 @@
+{{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "Info")}}
+<h3>
+<li>{{ .Date.Format "January 2, 2006"}} - <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+</h3>
+<h5>{{ .Summary }}</h5>
+{{ if .Truncated }}
+<a href="{{ .RelPermalink }}">Read more...</a><p></p>
+{{ .ReadingTime }} minute read
+{{ end }}
+{{ end }}
+

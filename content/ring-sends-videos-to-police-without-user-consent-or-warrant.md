@@ -2,7 +2,7 @@
 title: "Ring Sends Videos to Police Without User Consent or Warrant"
 date: 2022-07-15T17:10:34-04:00
 draft: false
-tags: ['blogs']
+tags: ['Blogs']
 ---
 
 At this point, this is what you should be expecting from big tech companies like Amazon (in this case), Microsoft, Google, Facebook, etc. This whole concept of giving law enforcement data without a warrant or user consent is not a new practice. Emergency Data Requests (I'll call them EDRs for short) have been a thing with some companies for a bit now where law enforcement could submit an EDR and the company would give law enforcement data they requested if they complied with EDRs. This whole process could be done without a warrant and is supposed to be meant for very serious situations like if someone is at risk of dying. But this has been abused by hackers before who have impersonated law enforcement to trick big tech companies to giving them data. You can read more on that [here](https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/) or watch this video segment clipped from [this video](https://odysee.com/@surveillancereport:2/threema-just-got-better!-surveillance:9) to get a brief summary of what happened

@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://censtek.net/</loc>
+    <lastmod>2022-07-15T21:38:26-04:00</lastmod>
+  </url><url>
     <loc>https://censtek.net/follow-twitter/</loc>
+    <lastmod>2022-07-15T21:38:26-04:00</lastmod>
+  </url><url>
+    <loc>https://censtek.net/tags/info/</loc>
+    <lastmod>2022-07-15T21:38:26-04:00</lastmod>
+  </url><url>
+    <loc>https://censtek.net/tags/</loc>
     <lastmod>2022-07-15T21:38:26-04:00</lastmod>
   </url><url>
     <loc>https://censtek.net/tags/blogs/</loc>
     <lastmod>2022-07-15T17:10:34-04:00</lastmod>
   </url><url>
-    <loc>https://censtek.net/</loc>
-    <lastmod>2022-07-15T17:10:34-04:00</lastmod>
-  </url><url>
     <loc>https://censtek.net/ring-sends-videos-to-police-without-user-consent-or-warrant/</loc>
     <lastmod>2022-07-15T17:10:34-04:00</lastmod>
   </url><url>
-    <loc>https://censtek.net/tags/</loc>
-    <lastmod>2022-07-15T17:10:34-04:00</lastmod>
-  </url><url>
-    <loc>https://censtek.net/categories/</loc>
-  </url><url>
-    <loc>https://censtek.net/tags/info/</loc>
-  </url><url>
     <loc>https://censtek.net/socials/</loc>
+    <lastmod>2022-07-14T21:38:26-04:00</lastmod>
   </url><url>
     <loc>https://censtek.net/software/</loc>
+    <lastmod>2022-07-14T21:38:26-04:00</lastmod>
+  </url><url>
+    <loc>https://censtek.net/all-posts/</loc>
+  </url><url>
+    <loc>https://censtek.net/categories/</loc>
   </url>
 </urlset>

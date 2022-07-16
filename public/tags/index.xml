@@ -5,27 +5,55 @@
 	<description>Recent content in Tags on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 15 Jul 2022 17:10:34 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 21:38:26 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>blogs</title>
+		<title>Info</title>
+		<link>https://censtek.net/tags/info/</link>
+		<pubDate>Fri, 15 Jul 2022 21:38:26 -0400</pubDate>
+		
+		<guid>https://censtek.net/tags/info/</guid>
+		<description>
+&lt;h3&gt;
+&lt;li&gt;July 15, 2022 - &lt;a href=&#34;https://censtek.net/follow-twitter/&#34;&gt;Follow the Twitter page!&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;This is just a reminder to follow my Twitter page! I&amp;rsquo;ll be posting all posts from this website to Twitter so it&amp;rsquo;ll be easier to find, plus you&amp;rsquo;ll find some of my takes on things that don&amp;rsquo;t make it to a dedicated post on this website&lt;/h5&gt;
+
+
+&lt;h3&gt;
+&lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/socials/&#34;&gt;Socials&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;Follow me on these platforms: Twitter Odysee GitHub Gab &lt;/h5&gt;
+
+
+&lt;h3&gt;
+&lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/software/&#34;&gt;Software I use&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft&amp;rsquo;s bullshit.
+I am currently using Windows 10 IoT LTSC 2021 which is an official version of Windows 10 from Microsoft that has an extended support date from the consumer version, and also gets rid of a ton of the microsoft bloat. I uploaded the ISO here and you can use this script to activate it.&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/software/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+3 minute read
+
+
+
+
+</description>
+	</item>
+	
+	<item>
+		<title>Blogs</title>
 		<link>https://censtek.net/tags/blogs/</link>
 		<pubDate>Fri, 15 Jul 2022 17:10:34 -0400</pubDate>
 		
 		<guid>https://censtek.net/tags/blogs/</guid>
-		<description></description>
-	</item>
-	
-	<item>
-		<title>Info</title>
-		<link>https://censtek.net/tags/info/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-		
-		<guid>https://censtek.net/tags/info/</guid>
-		<description></description>
+		<description>
+
+
+</description>
 	</item>
 	
 	</channel>

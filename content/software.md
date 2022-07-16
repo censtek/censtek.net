@@ -1,6 +1,7 @@
 ---
 title: "Software I use"
-tags: ['info']
+date: 2022-07-14T21:38:26-04:00
+tags: ['Info']
 draft: false
 ---
 

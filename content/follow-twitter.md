@@ -1,6 +1,7 @@
 ---
 title: "Follow the Twitter page!"
 date: 2022-07-15T21:38:26-04:00
+tags: ['Info']
 draft: false
 ---
 

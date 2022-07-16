@@ -2,10 +2,10 @@
   <channel>
 	<title>censtek</title>
 	<link>https://censtek.net/</link>
-	<description>Recent content on censtek</description>
+	<description>Recent content in Censtek on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 15 Jul 2022 17:10:34 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 21:38:26 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -41,7 +41,7 @@
 	<item>
 		<title>Socials</title>
 		<link>https://censtek.net/socials/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		<pubDate>Thu, 14 Jul 2022 21:38:26 -0400</pubDate>
 		
 		<guid>https://censtek.net/socials/</guid>
 		<description>&lt;h2 id=&#34;follow-me-on-these-platforms&#34;&gt;Follow me on these platforms:&lt;/h2&gt;
@@ -65,7 +65,7 @@
 	<item>
 		<title>Software I use</title>
 		<link>https://censtek.net/software/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		<pubDate>Thu, 14 Jul 2022 21:38:26 -0400</pubDate>
 		
 		<guid>https://censtek.net/software/</guid>
 		<description>&lt;p&gt;First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft&amp;rsquo;s bullshit.&lt;/p&gt;
@@ -86,6 +86,57 @@
 &lt;p&gt;For downloading stuff, I use &lt;a href=&#34;https://www.qbittorrent.org/&#34;&gt;qBittorrent&lt;/a&gt; for torrenting and &lt;a href=&#34;https://www.freedownloadmanager.org/&#34;&gt;Free Download Manager&lt;/a&gt; for (usually) downloading large files from websites.&lt;/p&gt;
 &lt;p&gt;For my video player, I use &lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt; and for my image viewer, I use &lt;a href=&#34;https://imageglass.org/&#34;&gt;ImageGlass&lt;/a&gt; (since Windows 10 LTSC doesn&amp;rsquo;t come with a video player other then the old ass one from Windows 7 and also it doesn&amp;rsquo;t have a photo viewer and photos just open in MS Paint by default lol)&lt;/p&gt;
 &lt;p&gt;For my Minecraft launcher, I use &lt;a href=&#34;https://polymc.org/&#34;&gt;PolyMC&lt;/a&gt; instead of the official MC launcher since PolyMC is open source&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>All Posts</title>
+		<link>https://censtek.net/all-posts/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://censtek.net/all-posts/</guid>
+		<description>
+&lt;h3&gt;
+&lt;li&gt;July 15, 2022 - &lt;a href=&#34;https://censtek.net/follow-twitter/&#34;&gt;Follow the Twitter page!&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;This is just a reminder to follow my Twitter page! I&amp;rsquo;ll be posting all posts from this website to Twitter so it&amp;rsquo;ll be easier to find, plus you&amp;rsquo;ll find some of my takes on things that don&amp;rsquo;t make it to a dedicated post on this website&lt;/h5&gt;
+
+Tagged with:
+Info
+
+&lt;h3&gt;
+&lt;li&gt;July 15, 2022 - &lt;a href=&#34;https://censtek.net/ring-sends-videos-to-police-without-user-consent-or-warrant/&#34;&gt;Ring Sends Videos to Police Without User Consent or Warrant&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;At this point, this is what you should be expecting from big tech companies like Amazon (in this case), Microsoft, Google, Facebook, etc. This whole concept of giving law enforcement data without a warrant or user consent is not a new practice. Emergency Data Requests (I&amp;rsquo;ll call them EDRs for short) have been a thing with some companies for a bit now where law enforcement could submit an EDR and the company would give law enforcement data they requested if they complied with EDRs.&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/ring-sends-videos-to-police-without-user-consent-or-warrant/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+2 minute read
+
+Tagged with:
+Blogs
+
+&lt;h3&gt;
+&lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/socials/&#34;&gt;Socials&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;Follow me on these platforms: Twitter Odysee GitHub Gab &lt;/h5&gt;
+
+Tagged with:
+Info
+
+&lt;h3&gt;
+&lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/software/&#34;&gt;Software I use&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft&amp;rsquo;s bullshit.
+I am currently using Windows 10 IoT LTSC 2021 which is an official version of Windows 10 from Microsoft that has an extended support date from the consumer version, and also gets rid of a ton of the microsoft bloat. I uploaded the ISO here and you can use this script to activate it.&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/software/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+3 minute read
+
+Tagged with:
+Info
+
+
+
 </description>
 	</item>
 	
