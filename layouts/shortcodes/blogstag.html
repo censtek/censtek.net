@@ -1,4 +1,4 @@
-{{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "blogs")}}
+{{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "Blogs")}}
 <h3>
 <li>{{ .Date.Format "January 2, 2006"}} - <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 </h3>
