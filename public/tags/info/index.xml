@@ -5,10 +5,23 @@
 	<description>Recent content in Info on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 15 Jul 2022 21:38:26 -0400</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 14:38:18 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/tags/info/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>I&#39;m using Linux now!</title>
+		<link>https://censtek.net/im-on-linux-now/</link>
+		<pubDate>Sun, 17 Jul 2022 14:38:18 -0400</pubDate>
+		
+		<guid>https://censtek.net/im-on-linux-now/</guid>
+		<description>&lt;p&gt;At least for now.&lt;/p&gt;
+&lt;p&gt;As nobody has seen bc why would anyone be constantly checking the GitHub repo for this site, I updated the &lt;a href=&#34;https://censtek.net/software&#34;&gt;Software I use&lt;/a&gt; post on this website to now say that I am running Pop!_OS (it&amp;rsquo;s a retarded name ik) on my PC&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://censtek.net/softwarepostupdate.png&#34; alt=&#34;GitHub commit updating the post&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to try my best to stick with using Linux as long as possible since I think learning more about Linux will be a good thing for me. I chose Pop OS mainly bc I like the UI of it and the NVIDIA integration is nice. Although the process of choosing a distro took me a while but so far I&amp;rsquo;m liking Pop OS and plan to stick with it until there comes a reason as to why I need to switch.&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Follow the Twitter page!</title>
