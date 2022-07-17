@@ -68,9 +68,7 @@
 		<pubDate>Thu, 14 Jul 2022 21:38:26 -0400</pubDate>
 		
 		<guid>https://censtek.net/software/</guid>
-		<description>&lt;p&gt;First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft&amp;rsquo;s bullshit.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://censtek.net/wininfo.png&#34; alt=&#34;Windows System Info Screenshot&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I am currently using Windows 10 IoT LTSC 2021 which is an official version of Windows 10 from Microsoft that has an extended support date from the consumer version, and also gets rid of a ton of the microsoft bloat. I uploaded the ISO &lt;a href=&#34;https://odysee.com/windows10-ltsc-iot-2021:4f9fb26777c1c62dc2db9118e28fc25ba1b8c1af?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu&#34;&gt;here&lt;/a&gt; and you can use &lt;a href=&#34;https://github.com/massgravel/Microsoft-Activation-Scripts&#34;&gt;this script&lt;/a&gt; to activate it. I also used &lt;a href=&#34;https://www.oo-software.com/en/shutup10&#34;&gt;ShutUp10&lt;/a&gt; to disable more of the telemetry that you couldn&amp;rsquo;t disable at the setup.&lt;/p&gt;
+		<description>&lt;p&gt;At the moment, I am using &lt;a href=&#34;https://pop.system76.com/&#34;&gt;Pop!_OS&lt;/a&gt; on my PC,&lt;/p&gt;
 &lt;p&gt;On my phone, I am using &lt;a href=&#34;https://calyxos.org/&#34;&gt;CalyxOS&lt;/a&gt; on my Google Pixel 4a.&lt;/p&gt;
 &lt;p&gt;For my web browser I am using &lt;a href=&#34;https://brave.com&#34;&gt;Brave Browser&lt;/a&gt; with &lt;a href=&#34;https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm&#34;&gt;uBlock Origin&lt;/a&gt; and &lt;a href=&#34;https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj&#34;&gt;Decentraleyes&lt;/a&gt; since Brave&amp;rsquo;s built in ad blocker is kinda shit.&lt;/p&gt;
 &lt;p&gt;My preferred chat app is &lt;a href=&#34;https://signal.org&#34;&gt;Signal&lt;/a&gt; for people (irls) I feel comfortable giving my phone number to (signal plz plz plz add usernames) and &lt;a href=&#34;https://telegram.org&#34;&gt;Telegram&lt;/a&gt; for the people that I don&amp;rsquo;t feel comfortable giving my phone number to. If Signal had usernames then I&amp;rsquo;d just use it for everybody.&lt;/p&gt;
@@ -84,7 +82,6 @@
 &lt;iframe id=&#34;odysee-iframe&#34; width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://odysee.com/$/embed/survreportwindscribesegment/ce9701a59859f8af887239bd125f935363c57b79?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;p&gt;For downloading stuff, I use &lt;a href=&#34;https://www.qbittorrent.org/&#34;&gt;qBittorrent&lt;/a&gt; for torrenting and &lt;a href=&#34;https://www.freedownloadmanager.org/&#34;&gt;Free Download Manager&lt;/a&gt; for (usually) downloading large files from websites.&lt;/p&gt;
-&lt;p&gt;For my video player, I use &lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt; and for my image viewer, I use &lt;a href=&#34;https://imageglass.org/&#34;&gt;ImageGlass&lt;/a&gt; (since Windows 10 LTSC doesn&amp;rsquo;t come with a video player other then the old ass one from Windows 7 and also it doesn&amp;rsquo;t have a photo viewer and photos just open in MS Paint by default lol)&lt;/p&gt;
 &lt;p&gt;For my Minecraft launcher, I use &lt;a href=&#34;https://polymc.org/&#34;&gt;PolyMC&lt;/a&gt; instead of the official MC launcher since PolyMC is open source&lt;/p&gt;
 </description>
 	</item>
@@ -118,7 +115,7 @@ Blogs
 &lt;h3&gt;
 &lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/socials/&#34;&gt;Socials&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
-&lt;h5&gt;Follow me on these platforms: Twitter Odysee GitHub Gab &lt;/h5&gt;
+&lt;h5&gt;Follow me on these platforms:   Twitter   Odysee   GitHub   Gab   &lt;/h5&gt;
 
 Tagged with:
 Info
@@ -126,11 +123,13 @@ Info
 &lt;h3&gt;
 &lt;li&gt;July 14, 2022 - &lt;a href=&#34;https://censtek.net/software/&#34;&gt;Software I use&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
-&lt;h5&gt;First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft&amp;rsquo;s bullshit.
-I am currently using Windows 10 IoT LTSC 2021 which is an official version of Windows 10 from Microsoft that has an extended support date from the consumer version, and also gets rid of a ton of the microsoft bloat. I uploaded the ISO here and you can use this script to activate it.&lt;/h5&gt;
+&lt;h5&gt;At the moment, I am using Pop!_OS on my PC,
+On my phone, I am using CalyxOS on my Google Pixel 4a.
+For my web browser I am using Brave Browser with uBlock Origin and Decentraleyes since Brave&amp;rsquo;s built in ad blocker is kinda shit.
+My preferred chat app is Signal for people (irls) I feel comfortable giving my phone number to (signal plz plz plz add usernames) and Telegram for the people that I don&amp;rsquo;t feel comfortable giving my phone number to.&lt;/h5&gt;
 
 &lt;a href=&#34;https://censtek.net/software/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-3 minute read&lt;p&gt;&lt;/p&gt;
+2 minute read&lt;p&gt;&lt;/p&gt;
 
 Tagged with:
 Info

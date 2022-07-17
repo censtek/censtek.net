@@ -5,11 +5,7 @@ tags: ['Info']
 draft: false
 ---
 
-First let me admit something that I am shameful about, I am still a Windows cuck. But, I have taken some steps to mitigate some of Microsoft's bullshit. 
-
-![Windows System Info Screenshot](/wininfo.png)
-
-I am currently using Windows 10 IoT LTSC 2021 which is an official version of Windows 10 from Microsoft that has an extended support date from the consumer version, and also gets rid of a ton of the microsoft bloat. I uploaded the ISO [here](https://odysee.com/windows10-ltsc-iot-2021:4f9fb26777c1c62dc2db9118e28fc25ba1b8c1af?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu) and you can use [this script](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate it. I also used [ShutUp10](https://www.oo-software.com/en/shutup10) to disable more of the telemetry that you couldn't disable at the setup.
+At the moment, I am using [Pop!_OS](https://pop.system76.com/) on my PC,
 
 On my phone, I am using [CalyxOS](https://calyxos.org/) on my Google Pixel 4a.
 
@@ -32,7 +28,5 @@ One thing to note about Windscribe however was there was an incident in 2021 whe
 </center>
 
 For downloading stuff, I use [qBittorrent](https://www.qbittorrent.org/) for torrenting and [Free Download Manager](https://www.freedownloadmanager.org/) for (usually) downloading large files from websites.
-
-For my video player, I use [VLC](https://www.videolan.org/vlc/) and for my image viewer, I use [ImageGlass](https://imageglass.org/) (since Windows 10 LTSC doesn't come with a video player other then the old ass one from Windows 7 and also it doesn't have a photo viewer and photos just open in MS Paint by default lol)
 
 For my Minecraft launcher, I use [PolyMC](https://polymc.org/) instead of the official MC launcher since PolyMC is open source
