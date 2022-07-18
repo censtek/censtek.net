@@ -5,24 +5,10 @@
 	<description>Recent content in Censtek on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Mon, 18 Jul 2022 15:11:28 -0400</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 18:27:08 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/index.xml" rel="self" type="application/rss+xml" />
 	
-	
-	<item>
-		<title>I&#39;m streaming Super Mario Galaxy</title>
-		<link>https://censtek.net/mario-galaxy-stream/</link>
-		<pubDate>Mon, 18 Jul 2022 15:11:28 -0400</pubDate>
-		
-		<guid>https://censtek.net/mario-galaxy-stream/</guid>
-		<description>&lt;p&gt;And I have totally legally obtained the game ;)&lt;/p&gt;
-&lt;p&gt;But yeah I&amp;rsquo;m just gonna be streaming that to Odysee so I&amp;rsquo;ll embed the stream below and by the time this post goes up, I&amp;rsquo;ll be live&lt;/p&gt;
-&lt;p&gt;But also when the stream ends, the replay will be embedded below&lt;/p&gt;
-&lt;center&gt;
-&lt;iframe id=&#34;odysee-iframe&#34; width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://odysee.com/$/embed/mario-galaxy/943ac453ee27507937f4dc7e2433090ee76ba702?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/center&gt;</description>
-	</item>
 	
 	<item>
 		<title>Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs</title>
@@ -144,17 +130,6 @@
 		
 		<guid>https://censtek.net/all-posts/</guid>
 		<description>
-&lt;h3&gt;
-&lt;li&gt;July 18, 2022 - &lt;a href=&#34;https://censtek.net/mario-galaxy-stream/&#34;&gt;I&amp;#39;m streaming Super Mario Galaxy&lt;/a&gt;&lt;/li&gt;
-&lt;/h3&gt;
-&lt;h5&gt;And I have totally legally obtained the game ;)
-But yeah I&amp;rsquo;m just gonna be streaming that to Odysee so I&amp;rsquo;ll embed the stream below and by the time this post goes up, I&amp;rsquo;ll be live
-But also when the stream ends, the replay will be embedded below
-  &lt;/h5&gt;
-
-Tagged with:
-Info
-
 &lt;h3&gt;
 &lt;li&gt;July 17, 2022 - &lt;a href=&#34;https://censtek.net/google-play-removes-permission-list/&#34;&gt;Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
