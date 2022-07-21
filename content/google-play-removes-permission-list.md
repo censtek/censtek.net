@@ -1,5 +1,5 @@
 ---
-title: "Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs"
+title: "Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs (UPDATED)"
 date: 2022-07-17T18:27:08-04:00
 tags: ['Blogs']
 draft: false
@@ -27,3 +27,7 @@ And also the information given is very vague too. Like for example looking at Te
 ![Telegram Data Safety Section](/tgdatasnippet.png)
 
 If you are too retarded to have figured this out already, Google doesn't give a fuck about your privacy. Neither does really all of big tech. At the end of the day, it's all a grift.
+
+# UPDATE
+As of July 21st 2022, Google has rolled back this decision and will restore the permissions list
+<iframe src="https://mstdn.social/@censtek/108685962594532468/embed" width="100%" height="270"></iframe>
