@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://censtek.net/tags/blogs/</loc>
+    <lastmod>2022-07-22T17:29:03-04:00</lastmod>
+  </url><url>
     <loc>https://censtek.net/</loc>
-    <lastmod>2022-07-21T21:12:23-04:00</lastmod>
+    <lastmod>2022-07-22T17:29:03-04:00</lastmod>
+  </url><url>
+    <loc>https://censtek.net/microsoft-cant-decide-what-to-do/</loc>
+    <lastmod>2022-07-22T17:29:03-04:00</lastmod>
+  </url><url>
+    <loc>https://censtek.net/tags/</loc>
+    <lastmod>2022-07-22T17:29:03-04:00</lastmod>
   </url><url>
     <loc>https://censtek.net/censtek-now-has-comments/</loc>
     <lastmod>2022-07-21T21:12:23-04:00</lastmod>
   </url><url>
     <loc>https://censtek.net/tags/info/</loc>
     <lastmod>2022-07-21T21:12:23-04:00</lastmod>
-  </url><url>
-    <loc>https://censtek.net/tags/</loc>
-    <lastmod>2022-07-21T21:12:23-04:00</lastmod>
-  </url><url>
-    <loc>https://censtek.net/tags/blogs/</loc>
-    <lastmod>2022-07-17T18:27:08-04:00</lastmod>
   </url><url>
     <loc>https://censtek.net/google-play-removes-permission-list/</loc>
     <lastmod>2022-07-17T18:27:08-04:00</lastmod>

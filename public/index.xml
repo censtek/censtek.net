@@ -5,10 +5,42 @@
 	<description>Recent content in Censtek on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 21 Jul 2022 21:12:23 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 17:29:03 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Microsoft Cant Decide What to Do With Office Macros</title>
+		<link>https://censtek.net/microsoft-cant-decide-what-to-do/</link>
+		<pubDate>Fri, 22 Jul 2022 17:29:03 -0400</pubDate>
+		
+		<guid>https://censtek.net/microsoft-cant-decide-what-to-do/</guid>
+		<description>&lt;p&gt;For the past couple months, Microsoft has been visibily unsure on what their final decision is with blocking macros or not by default in office.&lt;/p&gt;
+&lt;p&gt;In case you aren&amp;rsquo;t aware, macros in Microsoft office has been used as a (pretty effective) attack vector for running malicious code on a victims PC.&lt;/p&gt;
+&lt;p&gt;If you want a example of this being abused by hackers, I&amp;rsquo;d recommend giving this video a watch&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe id=&#34;odysee-iframe&#34; width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://odysee.com/$/embed/hacked-by-a-spreadsheet/3b70eab8a2246840bee3014ebb231a8826ed3a1d?r=HYdzmHznN8wkQ8WapW2qynxf917RCYqu&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt; 
+&lt;p&gt;Back in Feburary, Microsoft announced that they were going to get rid of the ability to enable macros from untrusted files you&amp;rsquo;ve downloaded from the internet&lt;/p&gt;
+&lt;iframe src=&#34;https://freeradical.zone/@thenewoil/107765095472642429/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;This was a good change. This would help defeat the issue of malicious macros and wouldn&amp;rsquo;t affect too many people since the legit use of legacy macros was becoming smaller and smaller while the malicious abuse of it was on the rise.&lt;/p&gt;
+&lt;p&gt;Then for some reason, Microsoft decided to roll back this decision based on unspecified &amp;ldquo;feedback&amp;rdquo; from an unspecified amount of people.&lt;/p&gt;
+&lt;iframe src=&#34;https://freeradical.zone/@thenewoil/108614102705942324/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;This was a pretty unpopular decision on Microsoft&amp;rsquo;s part, especially from the cybersecurity community.&lt;/p&gt;
+&lt;p&gt;Then a couple days later, they reversed their reversal on blocking the macros by default? It&amp;rsquo;s laughable how clueless Microsoft looks about what they want to do here.&lt;/p&gt;
+&lt;iframe src=&#34;https://freeradical.zone/@thenewoil/108635084526878264/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Now it looks like they are trying to double down on this and it looks like the rollout blocking the macros has resumed. But we&amp;rsquo;ll see if they change it again like a mentally challenged child.&lt;/p&gt;
+&lt;iframe src=&#34;https://freeradical.zone/@thenewoil/108691598226786655/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;8&#34;
+  data-page-url=&#34;https://censtek.net/microsoft-cant-decide-what-to-do&#34;
+  data-page-title=&#34;Microsoft Cant Decide What To Do With Office Macros&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
+	</item>
 	
 	<item>
 		<title>Censtek Now Has Comments</title>
@@ -197,6 +229,20 @@
 		
 		<guid>https://censtek.net/all-posts/</guid>
 		<description>
+&lt;h3&gt;
+&lt;li&gt;July 22, 2022 - &lt;a href=&#34;https://censtek.net/microsoft-cant-decide-what-to-do/&#34;&gt;Microsoft Cant Decide What to Do With Office Macros&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;For the past couple months, Microsoft has been visibily unsure on what their final decision is with blocking macros or not by default in office.
+In case you aren&amp;rsquo;t aware, macros in Microsoft office has been used as a (pretty effective) attack vector for running malicious code on a victims PC.
+If you want a example of this being abused by hackers, I&amp;rsquo;d recommend giving this video a watch
+   Back in Feburary, Microsoft announced that they were going to get rid of the ability to enable macros from untrusted files you&amp;rsquo;ve downloaded from the internet&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/microsoft-cant-decide-what-to-do/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+2 minute read&lt;p&gt;&lt;/p&gt;
+
+Tagged with:
+Blogs
+
 &lt;h3&gt;
 &lt;li&gt;July 21, 2022 - &lt;a href=&#34;https://censtek.net/censtek-now-has-comments/&#34;&gt;Censtek Now Has Comments&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
