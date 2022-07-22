@@ -18,3 +18,12 @@ If you want a good video going over this situation, Mental Outlaw made a good on
 <center>
 <iframe id="lbry-iframe" width="80%" height="315" src="https://odysee.com/$/embed/ring-doorbell-is-giving-data-to-police/95158d2beedd53656c423c5bfbfefcbb0f213c47?" allowfullscreen></iframe>
 </center>
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="5ae39b70-fc22-4616-8a54-5b800e15a5d5"
+  data-page-id="3"
+  data-page-url="https://censtek.net/ring-sends-videos-to-police-without-user-consent-or-warrant"
+  data-page-title="Ring Sends Videos to Police Without User Consent or Warrant"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

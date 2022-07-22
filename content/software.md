@@ -30,3 +30,12 @@ One thing to note about Windscribe however was there was an incident in 2021 whe
 For downloading stuff, I use [qBittorrent](https://www.qbittorrent.org/) for torrenting and [Free Download Manager](https://www.freedownloadmanager.org/) for (usually) downloading large files from websites.
 
 For my Minecraft launcher, I use [PolyMC](https://polymc.org/) instead of the official MC launcher since PolyMC is open source
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="5ae39b70-fc22-4616-8a54-5b800e15a5d5"
+  data-page-id="1"
+  data-page-url="https://censtek.net/software"
+  data-page-title="Software I use"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

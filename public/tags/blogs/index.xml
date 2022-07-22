@@ -33,7 +33,15 @@
 &lt;p&gt;If you are too retarded to have figured this out already, Google doesn&amp;rsquo;t give a fuck about your privacy. Neither does really all of big tech. At the end of the day, it&amp;rsquo;s all a grift.&lt;/p&gt;
 &lt;h1 id=&#34;update&#34;&gt;UPDATE&lt;/h1&gt;
 &lt;p&gt;As of July 21st 2022, Google has rolled back this decision and will restore the permissions list&lt;/p&gt;
-&lt;iframe src=&#34;https://mstdn.social/@censtek/108685962594532468/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe src=&#34;https://mstdn.social/@censtek/108685962594532468/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;5&#34;
+  data-page-url=&#34;https://censtek.net/google-play-removes-permission-list&#34;
+  data-page-title=&#34;Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs (UPDATED)&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
 	</item>
 	
 	<item>
@@ -46,7 +54,14 @@
 &lt;p&gt;As nobody has seen bc why would anyone be constantly checking the GitHub repo for this site, I updated the &lt;a href=&#34;https://censtek.net/software&#34;&gt;Software I use&lt;/a&gt; post on this website to now say that I am running Pop!_OS (it&amp;rsquo;s a retarded name ik) on my PC&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://censtek.net/softwarepostupdate.png&#34; alt=&#34;GitHub commit updating the post&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m going to try my best to stick with using Linux as long as possible since I think learning more about Linux will be a good thing for me. I chose Pop OS mainly bc I like the UI of it and the NVIDIA integration is nice. Although the process of choosing a distro took me a while but so far I&amp;rsquo;m liking Pop OS and plan to stick with it until there comes a reason as to why I need to switch.&lt;/p&gt;
-</description>
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;4&#34;
+  data-page-url=&#34;https://censtek.net/im-on-linux-now&#34;
+  data-page-title=&#34;I&#39;m using Linux now!&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
 	</item>
 	
 	<item>
@@ -63,7 +78,15 @@
 &lt;p&gt;If you want a good video going over this situation, Mental Outlaw made a good one&lt;/p&gt;
 &lt;center&gt;
 &lt;iframe id=&#34;lbry-iframe&#34; width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://odysee.com/$/embed/ring-doorbell-is-giving-data-to-police/95158d2beedd53656c423c5bfbfefcbb0f213c47?&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/center&gt;</description>
+&lt;/center&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;3&#34;
+  data-page-url=&#34;https://censtek.net/ring-sends-videos-to-police-without-user-consent-or-warrant&#34;
+  data-page-title=&#34;Ring Sends Videos to Police Without User Consent or Warrant&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
 	</item>
 	
 	</channel>

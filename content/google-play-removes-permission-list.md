@@ -31,3 +31,12 @@ If you are too retarded to have figured this out already, Google doesn't give a 
 # UPDATE
 As of July 21st 2022, Google has rolled back this decision and will restore the permissions list
 <iframe src="https://mstdn.social/@censtek/108685962594532468/embed" width="100%" height="270"></iframe>
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="5ae39b70-fc22-4616-8a54-5b800e15a5d5"
+  data-page-id="5"
+  data-page-url="https://censtek.net/google-play-removes-permission-list"
+  data-page-title="Google Play removes the permission lists from apps, putting the responsibility of disclosing them to the app devs (UPDATED)"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

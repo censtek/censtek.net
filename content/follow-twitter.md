@@ -9,3 +9,11 @@ This is just a reminder to [follow my Twitter page](https://twitter.com/censtek)
 
 ![Twitter Page Screenshot](/twitterpage.png)
 
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="5ae39b70-fc22-4616-8a54-5b800e15a5d5"
+  data-page-id="6"
+  data-page-url="https://censtek.net/follow-twitter"
+  data-page-title="Follow the Twitter page!"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

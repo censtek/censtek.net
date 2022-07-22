@@ -12,3 +12,12 @@ draft: false
  - ## [GitHub](https://github.com/censtek)
  - ## [Gab](https://gab.com/censtek)
  - ## [Mastodon (Twitter Mirror)](https://mstdn.social/@censtek)
+
+ <div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="5ae39b70-fc22-4616-8a54-5b800e15a5d5"
+  data-page-id="2"
+  data-page-url="https://censtek.net/socials"
+  data-page-title="Socials"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
