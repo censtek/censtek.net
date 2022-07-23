@@ -30,7 +30,7 @@ Twitter has told BleepingComputer that they are investigating the breach but hav
 
 `"Twitter has not confirmed the data breach at this time, telling BleepingComputer that they are investigating the authenticity of the claims."`
 
-`However, BleepingComputer verified with some of the Twitter users listed in a small sample of data shared by the hacker that the private information (email addresses and phone numbers) is accurate.`
+`"However, BleepingComputer verified with some of the Twitter users listed in a small sample of data shared by the hacker that the private information (email addresses and phone numbers) is accurate."`
 ###### [Source](https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/)
 
 As always with data breaches, make sure to change your password if you are affected (and even if you don't know if you are or not, it doesn't hurt to change it anyways to be safe) and make sure to be checking emails you get and carefully make sure they aren't phishing emails.
