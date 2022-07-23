@@ -5,10 +5,44 @@
 	<description>Recent content in Blogs on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 22 Jul 2022 17:29:03 -0400</lastBuildDate>
+	<lastBuildDate>Sat, 23 Jul 2022 14:13:04 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>5 Million Twitter Accounts And Their Information Breached And Up For Sale</title>
+		<link>https://censtek.net/5-million-twitter-accounts-breached/</link>
+		<pubDate>Sat, 23 Jul 2022 14:13:04 -0400</pubDate>
+		
+		<guid>https://censtek.net/5-million-twitter-accounts-breached/</guid>
+		<description>&lt;p&gt;This is just another situation showing that no company is invincible to security incidents, no matter how big and how much money they have.&lt;/p&gt;
+&lt;p&gt;Twitch (owned by Amazon) had literally all the source code for the entire website leaked back in October 2021, Facebook had a data breach in April of 2021 that exposed 530 million accounts, and theres many more examples of this stuff happening to massive tech companies&lt;/p&gt;
+&lt;p&gt;Right now, Twitter just had one of the newest big tech breaches.&lt;/p&gt;
+&lt;iframe src=&#34;https://mstdn.social/@censtek/108693422558957121/embed&#34; width=&#34;100%&#34; height=&#34;270&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;It looks like the hacker has been holding onto this data since December 2021, and has been holding onto it even after Twitter has patched the exploit they used to get the data.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;In a conversation with the threat actor, BleepingComputer was told that they used a vulnerability to collect the data in December 2021. They are now selling the data for $30,000, and that interested buyers have already approached them.&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;&amp;quot;The vulnerability allows any party without any authentication to obtain a twitter ID (which is almost equal to getting the username of an account) of any user by submitting a phone number/email even though the user has prohibitted this action in the privacy settings,&amp;quot; reads the vulnerability disclosure by security researcher &#39;zhirinovskiy.&#39;&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;&amp;quot;The bug exists due to the proccess of authorization used in the Android Client of Twitter, specifically in the procces of checking the duplication of a Twitter account.&amp;quot;&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;The hacker told us that you could feed email addresses and phone numbers to the vulnerability to determine if it is associated with a Twitter account and retrieve that account&#39;s ID.&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;h6 id=&#34;sourcehttpswwwbleepingcomputercomnewssecurityhacker-selling-twitter-account-data-of-54-million-users-for-30k&#34;&gt;&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/&#34;&gt;Source&lt;/a&gt;&lt;/h6&gt;
+&lt;p&gt;According to the hacker, they have nothing to do with HackOne or the security researcher who disclosed the exploit to Twitter.
+The exploit was reported to Twitter on January 1st and was fixed by Twitter on January 13th.&lt;/p&gt;
+&lt;p&gt;Twitter has told BleepingComputer that they are investigating the breach but have not confirmed it yet. But using the small sample size that the hacker gave BleepingComputer, they confirmed with the people in the sample they were given that the information they were given was accurate.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;Twitter has not confirmed the data breach at this time, telling BleepingComputer that they are investigating the authenticity of the claims.&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;However, BleepingComputer verified with some of the Twitter users listed in a small sample of data shared by the hacker that the private information (email addresses and phone numbers) is accurate.&lt;/code&gt;&lt;/p&gt;
+&lt;h6 id=&#34;sourcehttpswwwbleepingcomputercomnewssecurityhacker-selling-twitter-account-data-of-54-million-users-for-30k-1&#34;&gt;&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/&#34;&gt;Source&lt;/a&gt;&lt;/h6&gt;
+&lt;p&gt;As always with data breaches, make sure to change your password if you are affected (and even if you don&amp;rsquo;t know if you are or not, it doesn&amp;rsquo;t hurt to change it anyways to be safe) and make sure to be checking emails you get and carefully make sure they aren&amp;rsquo;t phishing emails.&lt;/p&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;9&#34;
+  data-page-url=&#34;https://censtek.net/5-million-twitter-accounts-breached&#34;
+  data-page-title=&#34;5 Million Twitter Accounts And Their Information Breached And Up For Sale&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Microsoft Cant Decide What to Do With Office Macros</title>
