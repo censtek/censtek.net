@@ -5,7 +5,7 @@
 	<description>Recent content in Tags on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 23 Jul 2022 14:13:04 -0400</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 13:17:46 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/tags/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -13,10 +13,19 @@
 	<item>
 		<title>Blogs</title>
 		<link>https://censtek.net/tags/blogs/</link>
-		<pubDate>Sat, 23 Jul 2022 14:13:04 -0400</pubDate>
+		<pubDate>Thu, 28 Jul 2022 13:17:46 -0400</pubDate>
 		
 		<guid>https://censtek.net/tags/blogs/</guid>
 		<description>
+&lt;h3&gt;
+&lt;li&gt;July 28, 2022 - &lt;a href=&#34;https://censtek.net/minecraft-implements-chat-censorship/&#34;&gt;Minecraft Implements Chat Censorship Into Java Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;It looks like the dreaded change that nobody is a fan of has finally been implemented into Minecraft Java Edition. If you aren&amp;rsquo;t caught up to speed, when Minecraft 1.19 was released, Mojang added a cryptographic key to each chat message sent in a server of realm to make it so that the chat message is cryptographically linked to the player that sent it. Then in a snapshot build, Mojang added a chat report feature where in any server, you could report a player&amp;rsquo;s chat message under one of the categories shown below (although the profanity option was removed in a later build).&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/minecraft-implements-chat-censorship/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+3 minute read
+
+
 &lt;h3&gt;
 &lt;li&gt;July 23, 2022 - &lt;a href=&#34;https://censtek.net/5-million-twitter-accounts-breached/&#34;&gt;5 Million Twitter Accounts And Their Information Breached And Up For Sale&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;

@@ -5,10 +5,36 @@
 	<description>Recent content in Censtek on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 23 Jul 2022 14:13:04 -0400</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 13:17:46 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Minecraft Implements Chat Censorship Into Java Edition</title>
+		<link>https://censtek.net/minecraft-implements-chat-censorship/</link>
+		<pubDate>Thu, 28 Jul 2022 13:17:46 -0400</pubDate>
+		
+		<guid>https://censtek.net/minecraft-implements-chat-censorship/</guid>
+		<description>&lt;p&gt;It looks like the dreaded change that nobody is a fan of has finally been implemented into Minecraft Java Edition. If you aren&amp;rsquo;t caught up to speed, when Minecraft 1.19 was released, Mojang added a cryptographic key to each chat message sent in a server of realm to make it so that the chat message is cryptographically linked to the player that sent it. Then in a snapshot build, Mojang added a chat report feature where in any server, you could report a player&amp;rsquo;s chat message under one of the categories shown below (although the profanity option was removed in a later build).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://censtek.net/minecraftchatreportoptions.png&#34; alt=&#34;Minecraft Chat Report Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Then someone at Microsoft would have access to the ENTIRE CHAT LOG OF THE SESSION (even from people that were not reported) and then look at the chat message reported + the context provided if there was any and would make a decision to ban your account from ALL OF MINECRAFT MULTIPLAYER or not.&lt;/p&gt;
+&lt;p&gt;Yeah thats right, if you get banned for a chat message that someone reported in one server, you are banned from joining any server in the entire game, even if it&amp;rsquo;s just a private server for your friends. This also applies to Realms.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://censtek.net/minecraftban.jpg&#34; alt=&#34;Minecraft Ban Screen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This has been a really unpopular decision and has made Microsoft recieve a lot of backlash, from server owners and normal players. If you don&amp;rsquo;t know, Minecraft Java Edition is a decentralized game so all of the multiplayer servers (with the exception of Minecraft Realms) are community ran and are not run by Microsoft. Mojang has trusted server owners to moderate their server the way they see fit for years and that system has worked great. But Microsoft seems to want to insert themselves into this by trying to moderate their servers for them. And if you get banned by Microsoft, you are banned from all servers, not just the one you got reported in. If you pay money to maintain a server, you should be in charge of how you want the server to be moderated. If Microsoft owned all theses servers, this change would be a lot more understandable. But Microsoft doesn&amp;rsquo;t own these servers, the community does. So Microsoft shouldn&amp;rsquo;t have any control over how these servers are run since they don&amp;rsquo;t own them.&lt;/p&gt;
+&lt;p&gt;Luckily for players who don&amp;rsquo;t want their messages to be reportable, &lt;a href=&#34;https://www.curseforge.com/minecraft/mc-mods/no-chat-reports&#34;&gt;this mod&lt;/a&gt; makes your messages not cryptographically signed so it is impossible for them to be reported in game. And also for server owners who don&amp;rsquo;t want any chat messages in their server to be reportable, &lt;a href=&#34;https://www.spigotmc.org/resources/noencryption.102902/&#34;&gt;this plugin&lt;/a&gt; will also make the messages for everyone in the server to not be cryptographically signed. Although keep in mind that none of these plugins / mods will let already banned (by Microsoft) players able to join your server.&lt;/p&gt;
+&lt;p&gt;Now that Minecraft 1.19.1 was released, this chat reporting feature will effect everyone using 1.19 and up, unless you are using the mod / server plugin mentioned before. But ofc Microsoft wasn&amp;rsquo;t just gonna let these server owners have freedom over their servers without trying to scare the player first. Now if you join a server with a plugin that prevents chat reporting, you&amp;rsquo;ll get this warning trying to spook you&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://censtek.net/microsoftmoment.jpeg&#34; alt=&#34;Gay Microsoft Warning&#34;&gt;&lt;/p&gt;
+&lt;p&gt;But really all this warning means is that you are actually safer in that server since nobody can report you in it.&lt;/p&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;10&#34;
+  data-page-url=&#34;https://censtek.net/microsoft-implements-chat-censorship&#34;
+  data-page-title=&#34;Minecraft Implements Chat Censorship Into Java Edition&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
+	</item>
 	
 	<item>
 		<title>5 Million Twitter Accounts And Their Information Breached And Up For Sale</title>
@@ -263,6 +289,17 @@ The exploit was reported to Twitter on January 1st and was fixed by Twitter on J
 		
 		<guid>https://censtek.net/all-posts/</guid>
 		<description>
+&lt;h3&gt;
+&lt;li&gt;July 28, 2022 - &lt;a href=&#34;https://censtek.net/minecraft-implements-chat-censorship/&#34;&gt;Minecraft Implements Chat Censorship Into Java Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;It looks like the dreaded change that nobody is a fan of has finally been implemented into Minecraft Java Edition. If you aren&amp;rsquo;t caught up to speed, when Minecraft 1.19 was released, Mojang added a cryptographic key to each chat message sent in a server of realm to make it so that the chat message is cryptographically linked to the player that sent it. Then in a snapshot build, Mojang added a chat report feature where in any server, you could report a player&amp;rsquo;s chat message under one of the categories shown below (although the profanity option was removed in a later build).&lt;/h5&gt;
+
+&lt;a href=&#34;https://censtek.net/minecraft-implements-chat-censorship/&#34;&gt;Read more...&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+3 minute read&lt;p&gt;&lt;/p&gt;
+
+Tagged with:
+Blogs
+
 &lt;h3&gt;
 &lt;li&gt;July 23, 2022 - &lt;a href=&#34;https://censtek.net/5-million-twitter-accounts-breached/&#34;&gt;5 Million Twitter Accounts And Their Information Breached And Up For Sale&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
