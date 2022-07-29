@@ -11,7 +11,7 @@ draft: false
  - ## [Odysee](https://odysee.com/@censtek:f)
  - ## [GitHub](https://github.com/censtek)
  - ## [Gab](https://gab.com/censtek)
- - ## [Mastodon (Twitter Mirror)](https://pieville.net/@censtek)
+ - ## [Mastodon (Twitter Mirror)](https://mstdn.social/@censtek)
 
  <div id="cusdis_thread"
   data-host="https://cusdis.com"
