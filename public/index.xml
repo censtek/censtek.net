@@ -5,10 +5,29 @@
 	<description>Recent content in Censtek on censtek</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 28 Jul 2022 13:17:46 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 29 Jul 2022 18:33:25 -0400</lastBuildDate>
     
         <atom:link href="https://censtek.net/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Contact Me</title>
+		<link>https://censtek.net/contact-me/</link>
+		<pubDate>Fri, 29 Jul 2022 18:33:25 -0400</pubDate>
+		
+		<guid>https://censtek.net/contact-me/</guid>
+		<description>&lt;h1 id=&#34;methods-of-contacting-me&#34;&gt;Methods of contacting me&lt;/h1&gt;
+&lt;h1 id=&#34;censtek-on-revolthttpsapprevoltchat&#34;&gt;@censtek on &lt;a href=&#34;https://app.revolt.chat&#34;&gt;Revolt&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;emailmailtocenstektutaio&#34;&gt;&lt;a href=&#34;mailto:censtek@tuta.io&#34;&gt;Email&lt;/a&gt;&lt;/h1&gt;
+&lt;div id=&#34;cusdis_thread&#34;
+  data-host=&#34;https://cusdis.com&#34;
+  data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
+  data-page-id=&#34;11&#34;
+  data-page-url=&#34;https://censtek.net/contact-me&#34;
+  data-page-title=&#34;Contact Me&#34;
+&gt;&lt;/div&gt;
+&lt;script async defer src=&#34;https://cusdis.com/js/cusdis.es.js&#34;&gt;&lt;/script&gt;</description>
+	</item>
 	
 	<item>
 		<title>Minecraft Implements Chat Censorship Into Java Edition</title>
@@ -289,6 +308,14 @@ The exploit was reported to Twitter on January 1st and was fixed by Twitter on J
 		
 		<guid>https://censtek.net/all-posts/</guid>
 		<description>
+&lt;h3&gt;
+&lt;li&gt;July 29, 2022 - &lt;a href=&#34;https://censtek.net/contact-me/&#34;&gt;Contact Me&lt;/a&gt;&lt;/li&gt;
+&lt;/h3&gt;
+&lt;h5&gt;Methods of contacting me @censtek on Revolt Email  &lt;/h5&gt;
+
+Tagged with:
+Info
+
 &lt;h3&gt;
 &lt;li&gt;July 28, 2022 - &lt;a href=&#34;https://censtek.net/minecraft-implements-chat-censorship/&#34;&gt;Minecraft Implements Chat Censorship Into Java Edition&lt;/a&gt;&lt;/li&gt;
 &lt;/h3&gt;
