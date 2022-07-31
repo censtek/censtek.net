@@ -5,7 +5,7 @@ tags: ['Info']
 draft: false
 ---
 
-At the moment, I am using [Pop!_OS](https://pop.system76.com/) on my PC,
+At the moment, I am using [Pop!_OS 22.04 LTS](https://pop.system76.com/) on my PC,
 
 On my phone, I am using [CalyxOS](https://calyxos.org/) on my Google Pixel 4a.
 
@@ -30,6 +30,8 @@ One thing to note about Windscribe however was there was an incident in 2021 whe
 For downloading stuff, I use [qBittorrent](https://www.qbittorrent.org/) for torrenting and [Free Download Manager](https://www.freedownloadmanager.org/) for (usually) downloading large files from websites.
 
 For my Minecraft launcher, I use [PolyMC](https://polymc.org/) instead of the official MC launcher since PolyMC is open source
+
+For podcast listening, I use [GNOME Podcasts](https://wiki.gnome.org/Apps/Podcasts) on my PC and [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) on my phone
 
 <div id="cusdis_thread"
   data-host="https://cusdis.com"

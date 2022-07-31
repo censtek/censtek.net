@@ -125,7 +125,7 @@
 		<pubDate>Thu, 14 Jul 2022 21:38:26 -0400</pubDate>
 		
 		<guid>https://censtek.net/software/</guid>
-		<description>&lt;p&gt;At the moment, I am using &lt;a href=&#34;https://pop.system76.com/&#34;&gt;Pop!_OS&lt;/a&gt; on my PC,&lt;/p&gt;
+		<description>&lt;p&gt;At the moment, I am using &lt;a href=&#34;https://pop.system76.com/&#34;&gt;Pop!_OS 22.04 LTS&lt;/a&gt; on my PC,&lt;/p&gt;
 &lt;p&gt;On my phone, I am using &lt;a href=&#34;https://calyxos.org/&#34;&gt;CalyxOS&lt;/a&gt; on my Google Pixel 4a.&lt;/p&gt;
 &lt;p&gt;For my web browser I am using &lt;a href=&#34;https://brave.com&#34;&gt;Brave Browser&lt;/a&gt; with &lt;a href=&#34;https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm&#34;&gt;uBlock Origin&lt;/a&gt; and &lt;a href=&#34;https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj&#34;&gt;Decentraleyes&lt;/a&gt; since Brave&amp;rsquo;s built in ad blocker is kinda shit.&lt;/p&gt;
 &lt;p&gt;My preferred chat app is &lt;a href=&#34;https://signal.org&#34;&gt;Signal&lt;/a&gt; for people (irls) I feel comfortable giving my phone number to (signal plz plz plz add usernames) and &lt;a href=&#34;https://telegram.org&#34;&gt;Telegram&lt;/a&gt; for the people that I don&amp;rsquo;t feel comfortable giving my phone number to. If Signal had usernames then I&amp;rsquo;d just use it for everybody.&lt;/p&gt;
@@ -140,6 +140,7 @@
 &lt;/center&gt;
 &lt;p&gt;For downloading stuff, I use &lt;a href=&#34;https://www.qbittorrent.org/&#34;&gt;qBittorrent&lt;/a&gt; for torrenting and &lt;a href=&#34;https://www.freedownloadmanager.org/&#34;&gt;Free Download Manager&lt;/a&gt; for (usually) downloading large files from websites.&lt;/p&gt;
 &lt;p&gt;For my Minecraft launcher, I use &lt;a href=&#34;https://polymc.org/&#34;&gt;PolyMC&lt;/a&gt; instead of the official MC launcher since PolyMC is open source&lt;/p&gt;
+&lt;p&gt;For podcast listening, I use &lt;a href=&#34;https://wiki.gnome.org/Apps/Podcasts&#34;&gt;GNOME Podcasts&lt;/a&gt; on my PC and &lt;a href=&#34;https://f-droid.org/en/packages/de.danoeh.antennapod/&#34;&gt;AntennaPod&lt;/a&gt; on my phone&lt;/p&gt;
 &lt;div id=&#34;cusdis_thread&#34;
   data-host=&#34;https://cusdis.com&#34;
   data-app-id=&#34;5ae39b70-fc22-4616-8a54-5b800e15a5d5&#34;
