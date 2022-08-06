@@ -8,6 +8,7 @@ draft: false
 Twitter's growing incompetence has gotten to the point where they themselves are recommending that you don't give them personal information since they can't trust themselves to keep that information safe! Despite the fact that Twitter will randomly lock you out of your account if you don't have a phone number linked bc they think you are a "bot" and the only way to get back in is to verify a phone number, they are saying to not give them personal information!
 
 ![Twitter Moment](/twittermoment.png)
+![Another good question](/whytwitter.png)
 
 If you didn't read [this blog post](/5-million-twitter-accounts-breached/) about Twitter's security incident, I would suggest reading that since that is the incident that is in question here.
 
